@@ -33,4 +33,4 @@
       }       
    } 
 
-   checkPalidromeString("raukll")
+   checkPalidromeString("Rahull")
